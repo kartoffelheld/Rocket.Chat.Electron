@@ -7,34 +7,6 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "55c3bb068a4236a65c632025b681e55c",
-      "css": "noun_project_72",
-      "code": 59392,
-      "src": "custom_icons",
-      "selected": false,
-      "svg": {
-        "path": "M189.5 527.1",
-        "width": 1205
-      },
-      "search": [
-        "noun_project_72"
-      ]
-    },
-    {
-      "uid": "efbdfa6d019e43f3810a04eb596a15c3",
-      "css": "noun_project_72",
-      "code": 59393,
-      "src": "custom_icons",
-      "selected": false,
-      "svg": {
-        "path": "M189.5 527.1",
-        "width": 1205
-      },
-      "search": [
-        "noun_project_72"
-      ]
-    },
-    {
       "uid": "b8c032ad99403544afe09c65a244d03c",
       "css": "parking",
       "code": 59525,
@@ -2815,6 +2787,52 @@
       "css": "clock-1",
       "code": 101,
       "src": "websymbols"
+    },
+    {
+      "uid": "07f0832c07f3d9713fffb06c8bffa027",
+      "css": "window-maximize",
+      "code": 62160,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "04f022b8bd044d4ccfffd3887ff72088",
+      "css": "window-minimize",
+      "code": 62161,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d0e62145dbf40f30e47b3819b8b43a8f",
+      "css": "window-restore",
+      "code": 62162,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "55c3bb068a4236a65c632025b681e55c",
+      "css": "noun_project_72",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M189.5 527.1",
+        "width": 1205
+      },
+      "search": [
+        "noun_project_72"
+      ]
+    },
+    {
+      "uid": "efbdfa6d019e43f3810a04eb596a15c3",
+      "css": "noun_project_72",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M189.5 527.1",
+        "width": 1205
+      },
+      "search": [
+        "noun_project_72"
+      ]
     }
   ]
 }
