@@ -90,7 +90,8 @@ app.on('ready', function () {
     mainWindow = new BrowserWindow({
         width: 1000,
         titleBarStyle: 'hidden',
-        height: 600
+        height: 600,
+        frame: false
     });
 
     afterMainWindow(mainWindow);
